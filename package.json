@@ -9,11 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@use-gesture/vanilla": "^10.2.27",
     "dat.gui": "^0.7.9",
-    "glslify-loader": "^2.0.0",
     "gsap": "^3.12.2",
-    "raw-loader": "^4.0.2",
+    "lethargy": "^1.0.9",
     "three": "^0.155.0",
+    "virtual-scroll": "^2.2.1",
     "vite-plugin-glsl": "^1.1.2"
   },
   "devDependencies": {
